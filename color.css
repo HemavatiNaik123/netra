@@ -1,0 +1,48 @@
+.s2{
+    border: 1px solid black;
+    flex:1;
+    display: flex;
+    flex-direction: row;
+}
+.s5,.s6,.s7,.s8{
+   
+    border: 1px solid black;
+    flex:1;
+
+}
+.s1{
+    border: 1px solid black;
+    flex:1;
+    display: flex;
+    flex-direction: row;
+}
+.s9,.s10,.s11,.s12{
+    border: 1px solid black;
+    flex:1;
+
+}
+.s3{
+    border: 1px solid black;
+    flex:1;
+    display: flex;
+    flex-direction: row;
+}
+.s13,.s14,.s15,.s16{
+     border: 1px solid black;
+    flex:1;
+
+}
+.s4{
+    border: 1px solid black;
+    flex:1;
+    display: flex;
+    flex-direction: row;
+}
+.s17,.s18{
+    border: 1px solid black;
+    flex:1;
+}
+.s19{
+    border: 1px solid black;
+    flex:2;
+}
